@@ -9,8 +9,8 @@ Set your desired reboot time in the script, run it, and let A.R.T handle the reb
 ## 🛠 Setup
 
 1. Download or clone this repository.
-2. Open the `ART.bat` file with any text editor.
-3. Set your desired reboot time using the built-in prompts or by editing the script manually.
+2. Open the `ART.bat` file.
+3. Set your desired reboot time using the built-in prompts.
 
 ## 💡 Why Use A.R.T?
 
