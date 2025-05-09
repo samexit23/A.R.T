@@ -13,7 +13,7 @@ echo =============================
 echo Choose your time format
 echo =============================
 echo [1] 12 hour clock
-echo [2] 24 hour clock
+echo [2] 24 hour clock (military time)
 set /p tfc=Time format: 
 if "%tfc%"=="1" set tf=12
 if "%tfc%"=="2" set tf=24
