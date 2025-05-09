@@ -1,4 +1,4 @@
-# A.R.T – Automated Reboot Timer
+# A.R.T – Automated Reboot Tool
 
 **A.R.T** is a lightweight and easy-to-use batch script that reboots your Windows PC at a time you set. It's especially useful for applying system updates, clearing memory, or completing software installations—perfect for those who want hands-free restarts during off-hours.
 
