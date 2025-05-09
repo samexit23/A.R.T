@@ -4,7 +4,7 @@
 
 ## 🚀 How It Works
 
-Set your desired reboot time in the script, run it, and let A.R.T handle the reboot automatically. No third-party tools required—just native Windows functionality.
+Run it, set your desired reboot time in the script, and let A.R.T handle the reboot automatically. No third-party tools required—just native Windows functionality.
 
 ## 🛠 Setup
 
